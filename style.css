@@ -1,12 +1,15 @@
 body{
     max-width: 500px;
-margin: auto;
-font-family: cursive;
-padding: 0.5rem;
-background-color: rgb(243, 247, 235);
-
+    margin: auto;
+    font-family: cursive;
+    padding: 0.5rem;
+    background-color: rgb(243, 247, 235);
+    border: solid 5px green;
 }
 
+#destaque{
+    background-image:ur
+}
 .prato{
     font-size: large;
 }
@@ -19,7 +22,7 @@ background-color: rgb(243, 247, 235);
 
 h2 {
     background-color: rgb(100, 233, 100);
-     
+
 
 
 
@@ -45,4 +48,16 @@ h1{
     color: rgb(3, 102, 3);
 }
     
-    
+.info1{
+        width: 99%; 
+        border: 3px solid yellowgreen;
+        text-align:center;
+        
+    }
+    .info2{
+        width: 99%; 
+        border: 3px solid yellowgreen;
+        text-align:center;
+        
+
+    }
